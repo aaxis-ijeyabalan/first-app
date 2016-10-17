@@ -1,0 +1,14 @@
+{
+	"appname": "first-app",
+	"scope": "FullAccess BuyerAdmin DevCenterMessageConfigAdmin DevCenterWebHookAdmin",
+	"clientid": "762056F9-3A60-46CE-A992-816B9CAC5EE9",
+	"buyerid": "newbuyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
